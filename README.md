@@ -19,6 +19,6 @@ This project is design to incorporate different stages of Planned Burns with inf
 ------
 
 ### Want a closer look to our process??
-Visit our **[blog](https://dcramirezo.github.io/delwp-blog/)**
+Visit our **[blog](https://dcramirezo.github.io/delwp---cfa/)**
 
 ----
