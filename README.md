@@ -15,6 +15,8 @@ This project is designed to educate on local wildlife and to inform the communit
 - #### Planned Burns Map
 This project is design to incorporate different stages of Planned Burns with information on past, current and future burns in a more user-friendly and accessible mapping tool, in order to provide the community a better experience when identifying current burns aroudn their locations, as well as, an interactive and educational overview of the reasons behind these burns.
 
+- #### Infographic animation
+This project is design to better communicate DELWP's defined role in the Victorian government and the different groups under the DELWP umbrella.
 
 ------
 
