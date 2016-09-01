@@ -21,6 +21,6 @@ This project is design to better communicate DELWP's defined role in the Victori
 ------
 
 ### Want a closer look to our process??
-Visit our **[blog](https://dcramirezo.github.io/delwp---cfa/)**
+Visit our **[blog](http://delwp-and-codefaus.tumblr.com/)**
 
 ----
